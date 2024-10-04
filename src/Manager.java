@@ -1,5 +1,4 @@
 public class Manager extends Employee{
-
     public double bonus;
     public double commission;
 
